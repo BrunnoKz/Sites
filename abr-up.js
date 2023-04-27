@@ -6,6 +6,7 @@ let verificaShopify = (url.includes('myshopify') || !domain.includes('.myshopify
 let dominiosPermitidos = [
 
   '3910cf',
+  'sabrishop-1739',
 
 
   
