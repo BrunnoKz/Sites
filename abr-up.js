@@ -7,6 +7,8 @@ let dominiosPermitidos = [
 
   '3910cf',
   'sabrishop-1739',
+  'alettnas',
+  
 
 
   
