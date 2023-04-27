@@ -16,6 +16,6 @@ if (verificaShopify === true) {
   let dominioShopify = window.Shopify.shop;
   let nomeDominioShopify = dominioShopify.replace('.myshopify.com', '');
   if (!dominiosPermitidos.includes(nomeDominioShopify)) {  
-    window.location.href = "https://rawart.com.br/";
+    window.location.href = "https://google.com.br/";
   }
 }
